@@ -6,7 +6,10 @@ Share with anybody.
 
 ### First - The Groundwork
 
-Create a folder (or of course use an existing one) for using with GitHub.
+Create a (or use an existing, like "shared") folder for using with GitHub.
+
++ Magit will need to create a folder in order to clone a repository (see below)
++ I didn't find a way to just _connect_ an existing folder to a repo
 
 ### Second - Dear GitHub, if you wouldn't mind
 
@@ -15,7 +18,9 @@ Create (or use an existing GitHub repo) and copy the code-url from GitHub.
 ### Third - Let's get to work Magit, shall we
 
 + Open the folder in Emacs and use "magit-init" (Magit will prepare your folder with anything needed further use)
-+ Then, withing the Magit interface (magit-status if not already open) use "C" to clone the existing repo and fill in a name plus the URL above)
++ Then, within the Magit interface (magit-status if not already open) use "C" to clone the existing repo
++ Fill in a name plus the URL from above, like so: shared/<new-folder-name>
++ Use the following folder: 
 
 ### Fourth - Where where we? Ahh, right
 
