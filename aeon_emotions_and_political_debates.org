@@ -3,9 +3,6 @@
 #+ROAM_ALIAS:
 #+ROAM_TAGS: @Personal Learning Aeon Psychology Politics
 
-Want to share this file with you Khalid.
-But did a Magit Revert. :-)
-
 * Emotions should be in the heart of complex [[file:politics.org][R:political]] debates [[https://psyche.co/ideas/emotions-should-be-in-the-heart-of-complex-political-debates?utm_source=Aeon+Newsletter&utm_campaign=d9341d056b-EMAIL_CAMPAIGN_2020_07_09_11_28&utm_medium=email&utm_term=0_411a82e59d-d9341d056b-70868439][(URL)]]
 * Full-Text
 Emotions should be in the heart of complex political debates | Psyche
