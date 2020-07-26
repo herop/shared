@@ -19,7 +19,7 @@ Create (or use an existing GitHub repo) and copy the code-url from GitHub.
 
 + Open your folder (see above) in Emacs and use "magit-init" (Magit will prepare your folder with anything needed for further use)
 + Then, within the Magit interface (magit-status if not already open) use ´C´ to clone the existing repo (´?´ for a list of available commands inside Magit)
-+ Fill in a name plus the URL from above, like so: shared/<new-folder-name> 
++ Fill in a name plus the URL from above, like so: shared/new-folder-name
 
 ### Fourth - Where where we? Ahh, right
 
