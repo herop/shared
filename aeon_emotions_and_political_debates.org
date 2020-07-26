@@ -1,0 +1,162 @@
+#+TITLE: Aeon: Emotions And Political Debates
+#+CREATED: 2020-07-24
+#+ROAM_ALIAS:
+#+ROAM_TAGS: @Personal Learning Aeon Psychology Politics
+
+Want to share this file with you Khalid.
+But did a Magit Revert. :-)
+
+* Emotions should be in the heart of complex [[file:politics.org][R:political]] debates [[https://psyche.co/ideas/emotions-should-be-in-the-heart-of-complex-political-debates?utm_source=Aeon+Newsletter&utm_campaign=d9341d056b-EMAIL_CAMPAIGN_2020_07_09_11_28&utm_medium=email&utm_term=0_411a82e59d-d9341d056b-70868439][(URL)]]
+* Full-Text
+Emotions should be in the heart of complex political debates | Psyche
+
+Emotions should be in the heart of complex political debates
+
+Celebrations for a national holiday. This family photo was found in an album lying by a roadside in Rikuzentakata, a city in Iwate Prefecture in Japan devastated by
+the tsunami of 11 March 2011. Photo by Dean Chapman/Panos Pictures
+
+Sabine Roeser
+
+is professor of ethics and head of the ethics and philosophy of technology section at Delft University of Technology in the Netherlands.
+
+Edited by Sally Davies
+
+Email
+
+Tweet
+
+Share
+
+When it comes to decision-making, many scholars and policymakers see emotions as a source of irrationality. Psychologists such as Paul Slovic and the Nobel
+Prize winner Daniel Kahneman believe that the opposition between reason and emotion explains all sorts of human misunderstandings about risks and statistics.
+Many people are afraid of nuclear energy, for example, even though the statistical chance of a meltdown is extremely small. In short, the idea is that people
+respond emotionally in their risk perceptions, and therefore close themselves off to scientific facts.
+
+One standard response is simply to go with available scientific evidence and to just listen to the experts. That’s what I call the technocratic approach – quantitative
+information is the guiding light, and anxieties or concerns of the public are dismissed as irrelevant. At the other end of the spectrum is what I call the populist
+approach, where the will of the public is taken as the ultimate verdict on policy. Even though the public might be emotional – and hence supposedly irrational –
+public opinion should still be the guide, either for democratic objectives or for pragmatic, instrumental ones.
+
+However, I believe both approaches are misguided for the same reason: they don’t take emotions and underlying values seriously. Obviously, it’s crucial to
+uncover the relevant scientific facts to make important decisions about, say, risky technologies and pandemics. But such decisions aren’t just a matter of gathering
+scientific information and listening to experts, as important as that is. Scientific information is necessary, but it’s not sufficient. We also have to take into account
+societal and ethical considerations, and that requires explicit ethical reflection, which in turn requires attention for emotions.
+
+Many researchers from psychology and philosophy, such as Nico Frijda, Antonio Damasio and Martha Nussbaum, have shown that our emotions help us with
+so-called ‘practical rationality’ – that is, making decisions in complex real-life situations. In my own work, I argue that emotions are important for having moral
+insights. Emotions are not by definition at odds with rationality, but can be an important source of moral reflection. They point to what matters to us morally.
+Emotions can draw attention to important ethical considerations that frequently get overlooked in quantitative, science-based approaches to risk.
+
+Take energy technologies, such as power plants – whether they’re generating energy by nuclear fission, burning coal, or via renewables such as wind and
+sunlight. To assess whether they’re ethically acceptable, we need to consider who reaps the benefits and who’s at risk from things such as workplace accidents
+and forms of environmental pollution. For example, technological innovations are often disproportionately harmful for groups that are already vulnerable. Their
+concerns and their anger come from the fact that important values – such as health, wellbeing and the right to be listened to – are being harmed or disregarded. In
+this way, emotions such as sympathy, empathy, compassion, enthusiasm and indignation can highlight ethical aspects of risk, such as autonomy, justice and
+fairness. Paying attention to these emotions can thus help policymakers and technology developers find more ethically and socially responsible solutions.
+
+Mainstream approaches to risk typically involve only consequentialist methods, such as cost-benefit analysis. They tend to overlook many other ethical
+considerations, such as distributive and procedural justice, fairness and autonomy. Emotions can play a vital role in highlighting these additional ethical dimensions.
+Rather than seeing emotions as irrational states that disturb thinking, my approach takes people’s emotions as a gateway to values.
+
+Emotionally charged capacities such as imagination can play an important role in thinking about future scenarios
+
+Trying to make decisions under conditions of uncertainty poses its own distinct ethical challenges. It requires imagination, and attending to feelings of responsibility
+and care. It calls on us to evaluate different scenarios, without full knowledge of future outcomes. The Fukushima Daiichi nuclear accident in Japan in 2011, for
+example, could have been prevented with higher safety barriers to protect the power plants from the ocean. Experts had proposed these before, but a tsunami
+with such high waves was deemed unlikely. We can ascribe this to a lack of imagination. And while nobody was killed in the Fukushima Daiichi meltdown,
+thousands of people had to leave their homes, and many will never be able to return. While narrow and quantitative approaches might overlook or downplay these
+harms, a care-based approach is more likely to capture a range of effects on human wellbeing. Of course, quantitative methods can be broadened, but doing so
+requires emotional and ethical reflection to the texture of human experience.
+
+The Swedish risk ethicist Sven Ove Hansson has argued that there’s an important ethical difference between so-called ‘type I’ and ‘type II’ errors – false
+positives versus false negatives. In scientific research, we primarily aim to prevent false positives, that is, false claims that something is the case. But in the
+context of public policy, touching on the likes of health risks and technological risks, we want to avoid false negatives – false claims that someone is healthy while
+they are sick, or that a technology is safe when it’s not. These ideas can be grounded in care – namely, that we’d rather be safe than sorry – and in turn support
+the precautionary principle.
+
+On the other hand, we also have to evaluate the ethical implications of such a cautious approach. For example, all energy technologies have possible benefits but
+also negative side-effects. These might include carbon dioxide emissions, environmental destruction or changes to the landscape. Achieving an ethically and
+socially desirable mix of energy sources requires us to balance these benefits and harms. This is much more complex than a simple cost-benefit analysis as is
+typically done by risk experts. Other-regarding emotions such as compassion can help to provide insight into ethically responsible scenarios.
+
+Of course, emotions can also be misguided, but the same holds for all sources of insight. Emotions need to be critically assessed based on scientific information
+and rational analysis, as well as by emotional reflection and deliberation. In a public deliberation about energy, people could be asked to put themselves in the
+shoes of other stakeholders, and also in the role of a policymaker who has to come up with a solution. This requires imaginative capacities and compassion, which
+involve going beyond one’s own initial emotional response. In other words, emotions can be an object as well as a tool of critical reflection.
+
+Emotionally charged human capacities such as imagination can play an important role in developing and thinking about future scenarios. The prospect of
+catastrophic climate change requires us to envisage different ways of life, and different scenarios for how to run a more sustainable economy, with more durable
+energy sources and lower consumption. Artists, filmmakers and writers can play an important role in making these scenarios vivid. Art appeals to the imagination;
+it can make abstract problems more concrete, and so facilitate ethical deliberation on the implications of such future scenarios.
+
+Current developments in biotechnology, robotics and AI have long been anticipated in works of science fiction, and these works go beyond what humanity is
+currently capable of. Art and literature help us to make abstract problems more concrete, and reflect on what we would find desirable technological
+developments. This in turn can motivate behaviour change: emotions don’t only facilitate ethical insight – they can also be an important source of motivation, to
+design more responsible technologies, or to limit our ecological footprint. For example, David Attenborough’s nature documentaries have, over many decades,
+contributed to a greater global awareness of the value and wonder of the natural world.
+
+Emotions are not just inconvenient facts that need to be bracketed or controlled. They are not obstacles so much as sources of generative insight when it comes
+to thinking about risk. Rather than dismissing emotions, we should embrace them as a vital resource, even as a starting point for moral discussion and reflection.
+Compassion, and feelings of responsibility and care, can help us to reflect on the ethical implications of the many hard choices we face. They also help us to
+foster solidarity and elicit the courage that the present moment demands. In order to take on the ethical challenges of risky technologies and uncertain futures, we
+need to draw on our rich human capacities: scientific knowledge, insights from social sciences, arts and humanities, and our capacity to feel deeply.
+* The Gist
+** Author: Sabine Roeser
+:LOGBOOK:
+- Note taken on [2020-07-24 Fri 16:24] \\
+  is professor of ethics and head of the ethics and philosophy of technology section at Delft University of Technology in the Netherlands.
+  
+  Edited by Sally Davies
+:END:
+** Emotions = Irrationality (Mainstream perception)
+** [[file:psychology.org][R:Psychologists]] like Paul Slovic & Daniel Kahneman: Opposition between reasoning & emotion explains all sorts of misunderstanding about risks (risk perceptions) and statistics
+*** Closing off to scientific facs
+*** *Technocratic approach*: Go with the scientific evidence & dismiss anxieties or concerns of the public
+*** *Populist approach*: The other end of the spectrum - Public is taken as the ultimate verdict
+** Both approaches are misguided: 
+*** Reason being the /emotional and underlying values have to be taken seriously/
+**** Scientific is necessary but not sufficient
+**** Required: Explicit ethical reflection
+***** Take societal and ethical considerations into account
+***** So pay attention to emotions
+** *Practical rationality*
+*** Nico Frijda, Antonio Damasio (Researchers from [[file:philosophy.org][R:Philosophy]] and [[file:psychology.org][R:Psychology]])
+*** "Our emotions help us making decisons in complex real-live situations"
+*** Sabine Roeser: "Emotions are important for having moral insights"
+*** *Issue for quatitative, science-based approaches to risk*:
+**** /Emotions can draw attention to important ethical considerations/
+**** That get frequently overlooked
+** Are energy technolgies (power plants like nuclear, coal) ethically acceptable?
+*** *Assessment*: Consider who reaps benefits, who is at risk from things like workplace accidents and forms of pollution
+*** *Example*: Already vulnerable groups are dispropotionally harmed by technological innovations
+*** *Cause of anger and fear*: Important values like health and wellbeing are harmed or disregarded and not listened to
+*** *Highlight ethical aspects of risk*: Reduce risks by paying attention to these emotions (sympathy, empathy, compassion, enthusiasm can highlight ethical aspects of risk)
+** *Mainstream risk-management*: Involve consequential methods like cost-benefit analysis
+*** *Overlooked*: Many ethical considerations (distrubutive and procedural justice, fairness and authonomy)
+*** "Take peoples emotions as gateway to values."
+*** *Example*: A Fukushima like impact to people's live can be prevented in the future if quantative methods are broadened with emotional and ethical reflection are added to the mix
+** Swedish risk ethicist Sven Ove Hansson: Ethical difference between so-called 'type I' and 'type II' errors (false positives vs. false negatives)
+*** *Primarly aim in scientific research*: Prevent the /false positives/ (false claim, somethig is the case)
+*** *In context of public policy*: Avoid the /false negstives/ (false claims someone is healthy while they are sick or a technolgy is safe whils it is dangerous)
+** *Evaluate the ethical implications of such a cautious approach*: Balance the benefits and harms (NOT only - the far less complex - cost-benefit)
+*** *Include*: Carbon dioxide emmissions, environmental destruction or changes to the landscape
+*** *Emotions must be critically assessed*:
+**** Based on scientific information and rational analysis and
+**** Emotional reflection and deliberation
+**** Emotions can be object as well as tool of critical reflection (imaginative capacities and compassion beyond one's own intial emotional response)
+** *Imagination*: Emotionally charged human capacities can play an important role in developing future scenarios
+*** *Catastrophic climate change*?
+**** Different scenario for running sustainable economy
+**** Balancing benefits and harms is far more complex
+**** Emotions like compassion can provide insight in ethically responsible scenarios
+**** Art appeals to imagination and make abstract problems more conctrete
+**** Facilitates ethical deliberation on implications of such future scenarios
+**** Motivate bahaviour change
+** Embrace emotions as a vital resource, even as starting point for moral discussion and reflection
+** Compassion, and feelings of responsability and care helps to reflect on ethical implications of hard chioces we face
+** Foster solidarity and elict the courage needed
+** Draw on our rich human capabilities
+*** Scientific knowledge
+*** Insights from social sciences
+*** Arts and humanity
+*** Capacity to feel deeply
