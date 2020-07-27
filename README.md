@@ -1,6 +1,5 @@
 # Shared - Snippets that might change your worldview to the better
-Share with anybody.
-Test mit Ewald
+
 ## What you always wanted to know about initial setup of **Magit** with **Github** but never bothered to ask.
 ... or rather nobody is telling you (at least not the way I was able to grasp).
 
